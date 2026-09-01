@@ -12,3 +12,57 @@ aside:hover {
 .menu {
     display: inline-block;
 }
+
+aside {
+    border: 1px solid black;
+    margin: 1em;
+    padding: 1em;
+    background-image: url("images/fade.jpg");
+    background-repeat: repeat-x;
+}
+
+header {
+    border: 1px solid darkgray;
+    margin: 0.5em;
+    padding: 0.5em;
+    background-color: lightgray;
+    text-align: center;
+}
+
+footer {
+    border-top: 4px double #888;
+}
+
+aside {
+    width: 30%;
+    float: right;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+#lists {
+    float: left;
+}
+
+table {
+    margin: auto;
+}
+
+#tables {
+    float: right;
+}
+
+#hyperlinks {
+    clear: both;
+}
+
+#images {
+    float: right;
+}
+
+figure {
+    border: 2px solid #ccc;
+}
+
+footer {
+    clear: both;
+}
