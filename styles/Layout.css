@@ -1,0 +1,14 @@
+/*
+filename: layout.css
+author: Zhenghao Sun
+created: 01/09/2026
+last modified: 02/09/2026
+description: CSS stylesheet for lab05.html
+*/
+aside:hover {
+    display: block;
+}
+
+.menu {
+    display: inline-block;
+}
