@@ -53,6 +53,8 @@ table {
 
 #hyperlinks {
     clear: both;
+    width: 45%;
+    text-align: center;
 }
 
 #images {
